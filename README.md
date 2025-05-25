@@ -27,5 +27,9 @@ Web3 Auditing & Reverse-engineering
 | Polygon  | \$2M           | توقيعات غير آمنة         | داخلي    |
 | Optimism | \$2M           | خلل في الرسائل بين L1/L2 | ImmuneFi |
 
-
+# Whats Different Audit | Bug bounty  | Ctf ?
+# Who is this course for? 
+ 1- solidity
+ 2- foundry framework
+# Next install enviroment
 
