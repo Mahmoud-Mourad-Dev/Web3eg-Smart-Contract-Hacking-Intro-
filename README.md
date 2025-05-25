@@ -1,5 +1,5 @@
 # Web3eg-Smart-Contract-Hacking
-Web3 Auditing &amp; Reverse-engineering
+Web3 Auditing & Reverse-engineering
 
 [Defillama](https://defillama.com/hacks?utm_source=chatgpt.com)
 
@@ -16,6 +16,8 @@ Web3 Auditing &amp; Reverse-engineering
   5- [sherlock](https://audits.sherlock.xyz/contests)
   
   6- [hashlock](https://hashlock.com/bug-bounty)
+
+  7- [hatFinance](https://app.hats.finance/leaderboard)
 
 
   | المشروع  | المبلغ المدفوع | نوع الثغرة               | المنصة   |
