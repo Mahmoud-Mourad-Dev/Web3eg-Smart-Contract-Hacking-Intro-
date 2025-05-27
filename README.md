@@ -35,5 +35,9 @@ Web3 Auditing & Reverse-engineering
  2- foundry framework
  
 # Next install enviroment
+ install vscode 
+ install wsl
+ install foundry
+ install metamask
 
 
