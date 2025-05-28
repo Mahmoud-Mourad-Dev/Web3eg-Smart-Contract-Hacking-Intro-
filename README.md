@@ -40,7 +40,13 @@ Web3 Auditing & Reverse-engineering
 * install wsl
  
  * install foundry
-   -local blockchain
+    ```
+   curl -L https://foundry.paradigm.xyz | bash
+    
+   ```
+    
+
+   - local blockchain
    - compiler
    - deploy
    - test
